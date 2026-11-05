@@ -21,5 +21,5 @@ Tier,ColorRGB,ColorHex,NeonRGB,NeonHex,OutlineRGB,OutlineHex
 20,"36, 36, 36","#242424","R,G,B","#","42,43,47","#2a2b2f"
 21,"47, 81, 144 -> 21, 52, 145","#2f5190 -> #153491","R,G,B","#","79, 109, 161 -> 61, 83, 143","#4f6da1 -> #3d538f"
 22,"161, 216, 71 -> 216, 197, 92","#a1d847 -> #d8c55c","R,G,B","#","205, 236, 160 -> 235, 226, 171"," #cdeca0 -> #ebe2ab"
-23,"[COMPLEX]","[COMPLEX]","[COMPLEX]","[COMPLEX]","[COMPLEX]","[COMPLEX]"
+23,"217, 62, 42 -> 72, 38, 37","#d93e2a -> #482625","R, G, B","#","224, 92, 77 -> 104, 74, 74","#e05c4d -> #684a4a"
 24,"HUESHIFT","HUESHIFT","HUESHIFT","HUESHIFT","HUESHIFT","HUESHIFT"
